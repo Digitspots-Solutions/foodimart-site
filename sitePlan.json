@@ -1,0 +1,42 @@
+{
+  "businessName": "Foodimart",
+  "industry": "Food Manufacturing",
+  "tone": "professional yet warm and trustworthy",
+  "tagline": "Quality Food Manufacturing, Made in Nigeria",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Foodimart - Your Trusted Partner in Quality Food Manufacturing. From our facility in Lekki, Lagos, we deliver excellence in every product we manufacture. Committed to the highest standards of quality, safety, and innovation in Nigerian food production.",
+      "imagePrompt": "Modern Nigerian food manufacturing facility with stainless steel equipment, workers in hygiene gear carefully processing food products, bright natural lighting streaming through large windows, professional industrial kitchen setting in Lagos, clean organized production line with quality control stations, photorealistic 4K quality",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Foodimart is a leading food manufacturing company based in Lekki, Lagos State. We specialize in producing high-quality food products that meet both local and international standards. Our state-of-the-art facility in Jakande Estate combines modern technology with traditional Nigerian food processing expertise. We are committed to food safety, nutritional excellence, and sustainable manufacturing practices. Every product that leaves our facility reflects our dedication to quality and our passion for feeding Nigeria with products you can trust.",
+      "imagePrompt": "Spacious modern food processing plant interior in Lagos Nigeria, gleaming stainless steel machinery and conveyor belts, Nigerian food safety inspectors reviewing products, natural ingredients displayed beautifully, bright overhead LED lighting, ISO certification plaques on wall, professional corporate atmosphere, ultra-realistic photography",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Manufacturing Capabilities",
+      "copy": "Contract Manufacturing: We partner with brands to manufacture their food products to exact specifications, ensuring quality and consistency at scale.\n\nPrivate Label Production: Let us help you bring your food brand to life with our comprehensive private label manufacturing services.\n\nProduct Development: Our expert team works with you to develop new food products from concept to market-ready production.\n\nQuality Assurance: Every batch undergoes rigorous testing and quality control to meet NAFDAC standards and exceed customer expectations.\n\nPackaging Solutions: From design to execution, we provide complete packaging services that protect your product and enhance your brand.",
+      "imagePrompt": "Five distinct scenes of Nigerian food manufacturing: workers packaging products in clean room suits, quality control lab with testing equipment, food ingredients being measured precisely, automated packaging line with products, professional meeting discussing food formulations, bright industrial setting, photorealistic detail",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to discuss your food manufacturing needs? Get in touch with Foodimart today.\n\nOur Location: Block 131, Jakande Housing Estate, Jakande First Gate, Lekki, Lagos State.\n\nServing: Eti-Osa, Lagos, and across Nigeria.\n\nWhether you're a startup looking to manufacture your first product or an established brand seeking a reliable manufacturing partner, we're here to help. Contact us to schedule a facility tour or discuss your project requirements.",
+      "imagePrompt": "Professional Nigerian business office reception area with comfortable seating, modern corporate design, map of Lagos showing Lekki location highlighted, welcoming receptionist at sleek desk, large windows showing Lagos cityscape, Foodimart branding elements, warm inviting lighting, photorealistic quality",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+2348140284016",
+    "email": "info@foodimart.ng",
+    "address": "Block 131, Jakande Housing Estate, Jakande First Gate, Lekki, Lagos State",
+    "whatsapp": "https://wa.me/2348140284016"
+  }
+}
