@@ -1,42 +1,49 @@
 {
-  "businessName": "Foodimart",
-  "industry": "Food Manufacturing",
-  "tone": "professional yet warm and trustworthy",
-  "tagline": "Quality Food Manufacturing, Made in Nigeria",
+  "businessName": "Dike John Reservoir Tech Limited",
+  "industry": "Oil & Gas Engineering",
+  "tone": "professional-technical",
+  "tagline": "Excellence in Subsurface Engineering and Drilling Operations",
   "sections": [
     {
       "id": "hero",
       "name": "Hero",
-      "copy": "Welcome to Foodimart - Your Trusted Partner in Quality Food Manufacturing. From our facility in Lekki, Lagos, we deliver excellence in every product we manufacture. Committed to the highest standards of quality, safety, and innovation in Nigerian food production.",
-      "imagePrompt": "Modern Nigerian food manufacturing facility with stainless steel equipment, workers in hygiene gear carefully processing food products, bright natural lighting streaming through large windows, professional industrial kitchen setting in Lagos, clean organized production line with quality control stations, photorealistic 4K quality",
+      "copy": "Dike John Reservoir Tech Limited\n\nLeading Subsurface Engineering Solutions for Nigeria's Energy Sector\n\nWith proven expertise in drilling operations and reservoir management, we deliver technical excellence and operational safety across all phases of oil and gas development. Our experienced team ensures your projects meet the highest industry standards.",
+      "imagePrompt": "Professional oil and gas drilling rig at sunset in Nigeria, modern offshore platform with safety equipment visible, workers in PPE coordinating operations, dramatic golden hour lighting, photorealistic industrial photography, depth of field showing technical equipment in foreground",
       "layout": "centered"
     },
     {
       "id": "about",
       "name": "About Us",
-      "copy": "Foodimart is a leading food manufacturing company based in Lekki, Lagos State. We specialize in producing high-quality food products that meet both local and international standards. Our state-of-the-art facility in Jakande Estate combines modern technology with traditional Nigerian food processing expertise. We are committed to food safety, nutritional excellence, and sustainable manufacturing practices. Every product that leaves our facility reflects our dedication to quality and our passion for feeding Nigeria with products you can trust.",
-      "imagePrompt": "Spacious modern food processing plant interior in Lagos Nigeria, gleaming stainless steel machinery and conveyor belts, Nigerian food safety inspectors reviewing products, natural ingredients displayed beautifully, bright overhead LED lighting, ISO certification plaques on wall, professional corporate atmosphere, ultra-realistic photography",
+      "copy": "Who We Are\n\nDike John Reservoir Tech Limited (also trading as Dike John Subsurface Engineering Co) is a specialized oil and gas engineering firm based in Lagos, Nigeria. Under the leadership of our Drilling Superintendent, we bring decades of combined experience in subsurface engineering, drilling operations, and reservoir management.\n\nOur expertise spans the complete lifecycle of oil and gas projects, from initial exploration and appraisal through to production optimization. We understand the unique challenges of operating in Nigeria's dynamic energy sector and provide solutions that balance technical precision with operational efficiency.\n\nCommitted to safety, innovation, and environmental responsibility, we work closely with operators, contractors, and regulatory bodies to deliver projects that meet international standards while supporting Nigeria's energy independence goals.",
+      "imagePrompt": "Modern Nigerian oil and gas office environment, engineering team reviewing technical drawings and subsurface data on large monitors, diverse professionals in business attire collaborating around conference table, Lagos corporate setting, bright natural lighting, professional photography",
       "layout": "split"
     },
     {
       "id": "services",
-      "name": "Our Manufacturing Capabilities",
-      "copy": "Contract Manufacturing: We partner with brands to manufacture their food products to exact specifications, ensuring quality and consistency at scale.\n\nPrivate Label Production: Let us help you bring your food brand to life with our comprehensive private label manufacturing services.\n\nProduct Development: Our expert team works with you to develop new food products from concept to market-ready production.\n\nQuality Assurance: Every batch undergoes rigorous testing and quality control to meet NAFDAC standards and exceed customer expectations.\n\nPackaging Solutions: From design to execution, we provide complete packaging services that protect your product and enhance your brand.",
-      "imagePrompt": "Five distinct scenes of Nigerian food manufacturing: workers packaging products in clean room suits, quality control lab with testing equipment, food ingredients being measured precisely, automated packaging line with products, professional meeting discussing food formulations, bright industrial setting, photorealistic detail",
-      "layout": "cards"
+      "name": "Our Services",
+      "copy": "Comprehensive Subsurface Engineering Solutions\n\nDrilling Operations Management\nComplete drilling superintendent services including rig supervision, drilling program development, well planning, and real-time operational oversight. We ensure safe, efficient drilling operations that meet technical specifications and regulatory requirements.\n\nReservoir Engineering & Management\nAdvanced reservoir characterization, performance analysis, and production optimization strategies. We utilize cutting-edge technology and proven methodologies to maximize recovery and extend field life.\n\nSubsurface Technical Consulting\nExpert consultation on well design, completion strategies, formation evaluation, and risk assessment. Our technical recommendations are grounded in practical field experience and industry best practices.\n\nProject Management & Coordination\nEnd-to-end project coordination ensuring seamless integration between drilling, completion, and production teams. We manage vendor relationships, regulatory compliance, and stakeholder communication.\n\nOperational Safety & Compliance\nComprehensive HSE management systems tailored to Nigerian regulatory requirements. We prioritize safety culture and environmental stewardship in every aspect of our operations.",
+      "imagePrompt": "Split screen composition showing various oil and gas operations: drilling floor with modern equipment, reservoir engineering software visualization, safety meeting with Nigerian workers in PPE, technical documentation and charts, high-quality corporate photography with industrial aesthetic",
+      "layout": "grid"
+    },
+    {
+      "id": "expertise",
+      "name": "Technical Expertise",
+      "copy": "Industry-Leading Capabilities\n\nOur technical team brings specialized knowledge across all critical areas of subsurface engineering:\n\n• Conventional and Directional Drilling Operations\n• Well Control and Blowout Prevention Systems\n• Reservoir Characterization and Simulation\n• Production Enhancement and Workover Operations\n• Formation Evaluation and Petrophysical Analysis\n• Drilling Fluids Engineering and Optimization\n• Cementing and Well Integrity Management\n• Regulatory Compliance (DPR, NUPRC Standards)\n• HSE Risk Management and Incident Prevention\n\nWe maintain active partnerships with leading service providers and technology vendors, ensuring our clients benefit from the latest innovations in subsurface engineering and drilling technology.",
+      "imagePrompt": "Technical oil and gas operations collage: close-up of drilling equipment gauges and controls, computer screens showing reservoir simulation software, geological core samples being analyzed, Nigerian engineers examining well logs, professional industrial photography with technical precision",
+      "layout": "default"
     },
     {
       "id": "contact",
       "name": "Contact Us",
-      "copy": "Ready to discuss your food manufacturing needs? Get in touch with Foodimart today.\n\nOur Location: Block 131, Jakande Housing Estate, Jakande First Gate, Lekki, Lagos State.\n\nServing: Eti-Osa, Lagos, and across Nigeria.\n\nWhether you're a startup looking to manufacture your first product or an established brand seeking a reliable manufacturing partner, we're here to help. Contact us to schedule a facility tour or discuss your project requirements.",
-      "imagePrompt": "Professional Nigerian business office reception area with comfortable seating, modern corporate design, map of Lagos showing Lekki location highlighted, welcoming receptionist at sleek desk, large windows showing Lagos cityscape, Foodimart branding elements, warm inviting lighting, photorealistic quality",
+      "copy": "Get in Touch\n\nReady to discuss your next project? Our team is available to provide technical consultation and develop customized solutions for your subsurface engineering needs.\n\nDike John Reservoir Tech Limited\nBlock 131, Jakande Housing Estate\nJakande First Gate, Lekki\nEti-Osa, Lagos State, Nigeria\n\nPhone: +234 814 028 4016\nEmail: info@dikejohn.com\n\nWhatsApp: Available for quick consultations and project inquiries\n\nOffice Hours: Monday - Friday, 8:00 AM - 5:00 PM WAT\n\nFor urgent operational support or emergency response, our drilling superintendent maintains 24/7 availability for active projects.",
+      "imagePrompt": "Professional Nigerian office reception area in modern Lagos building, glass entrance with company branding, sleek contemporary interior design, Lagos cityscape visible through windows, welcoming corporate environment, architectural photography with natural light",
       "layout": "centered"
     }
   ],
   "contact": {
-    "phone": "+2348140284016",
-    "email": "info@foodimart.ng",
-    "address": "Block 131, Jakande Housing Estate, Jakande First Gate, Lekki, Lagos State",
+    "phone": "+234 814 028 4016",
+    "email": "info@dikejohn.com",
+    "address": "Block 131, Jakande Housing Estate, Jakande First Gate, Lekki, Eti-Osa, Lagos State, Nigeria",
     "whatsapp": "https://wa.me/2348140284016"
   }
 }
